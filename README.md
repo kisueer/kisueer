@@ -17,9 +17,9 @@ I'm a passionate developer who loves building efficient and scalable application
 
 ## 📌 Featured Projects  
 
-### 🔹 [Bio Page]([https://github.com/yourusername/project-name](https://github.com/kisueer/Bio-page))    
+### 🔹 [Bio Page](https://github.com/kisueer/Bio-page)    
 
-### 🔹 [Ollama Web Interface]([https://github.com/yourusername/another-project](https://github.com/kisueer/Ollama-Model---Website))  
+### 🔹 [Ollama Web Interface](https://github.com/kisueer/Ollama-Model---Website)  
 
 Check out more on my [GitHub Repos](https://github.com/kisueer?tab=repositories) 🚀  
 
