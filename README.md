@@ -34,7 +34,7 @@ Check out more on my [GitHub Repos](https://github.com/kisueer?tab=repositories)
 
 ## 📫 Let's Connect  
 
-- 💼 [Discord]([https://linkedin.com/in/yourusername](https://discord.gg/Z7JDkSWNrK))  
+- 💼 [Discord](https://discord.gg/Z7JDkSWNrK))  
 - 🐦 [Guns.lol](https://guns.lol/lowhealth)  
 
 ---
