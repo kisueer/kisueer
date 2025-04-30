@@ -1,6 +1,6 @@
 # Hi there, I'm Kisueer 👋
 
-### 🚀 Software Developer | Python & JavaScript Enthusiast  
+### 🚀 Software Developer
 
 I'm a passionate developer who loves building efficient and scalable applications with **Python** , **HTML** and **JavaScript**. Whether it's backend development with Flask/Django or frontend magic with React, I enjoy bringing ideas to life through code.
 
