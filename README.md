@@ -17,7 +17,7 @@ I'm a passionate developer who loves building efficient and scalable application
 
 ## 📌 Featured Projects  
 
-### 🔹 [Bio Page](https://github.com/kisueer/Bio-page)    
+### 🔹 [Wifi Password Dumper](https://github.com/kisueer/Wifi-Password-Dumper)    
 
 ### 🔹 [Ollama Web Interface](https://github.com/kisueer/Ollama-Model---Website)  
 
