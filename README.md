@@ -19,7 +19,9 @@ I'm a passionate developer who loves building efficient and scalable application
 
 ### 🔹 [Wifi Password Dumper](https://github.com/kisueer/Wifi-Password-Dumper)    
 
-### 🔹 [Ollama Web Interface](https://github.com/kisueer/Ollama-Model---Website)  
+### 🔹 [Portofolio](https://github.com/kisueer/Portfolio)  
+
+### 🔹 [School Hub](https://github.com/kisueer/SchoolHub)  
 
 Check out more on my [GitHub Repos](https://github.com/kisueer?tab=repositories) 🚀  
 
