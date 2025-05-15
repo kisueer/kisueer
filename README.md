@@ -9,7 +9,7 @@ I'm a passionate developer who loves building efficient and scalable application
 ## 🔧 Technologies & Tools  
 
 - **Languages:** Python, JavaScript, TypeScript , HTML
-- **Frameworks:** Django, Flask, React, Node.js  
+- **Frameworks:** Django, Flask, React, Node.js , TailWind 
 - **Databases:** PostgreSQL, MongoDB, Firebase  
 - **Tools:** Git, Docker, Postman, VS Code  
 
