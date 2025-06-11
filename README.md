@@ -26,9 +26,6 @@ sh-6.9$ /bin/bash -i
     <a href="https://instagram.com/kisueer_" target="_blank"><img
             src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
             alt="Instagram"></a>
-    <a href="https://github.com/kisueer" target="_blank"><img
-            src="https://img.shields.io/badge/GPG%20Key-%233f4145?style=for-the-badge&logo=gnu-privacy-guard"
-            alt="GPG Key"></a>
 </p>
 <hr />
 
