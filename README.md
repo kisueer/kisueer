@@ -96,16 +96,19 @@ class Languages:
     <th>Device</th>
     <th>Operating System</th>
     <th>Processor</th>
+    <th>GPU</th>
   </tr>
   <tr>
     <td>Device 1</td>
     <td>Windows 11 Pro</td>
-    <td>Intel Core i2</td>
+    <td>AMD Ryzen™ 9 9950X3D</td>
+    <td>NVIDIA RTX 5070 TI</td>
   </tr>
   <tr>
     <td>Samsung Galaxy M21</td>
     <td>Android 12, OneUI 4</td>
     <td>Unisoc</td>
+    <td>None</td>
   </tr>
 </table>
 
