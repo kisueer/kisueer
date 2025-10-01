@@ -36,7 +36,7 @@ sh-6.9$ /bin/bash -i
 - I am from **Romania** RO 
 - Love of my life : **Python** 🛌
 - Dream: become a software engineer 💸
-- Fun Fact: I spend more time in **commenting**
+- Fun Fact: I love playing CS:GO HvH
 
 ### Current Works:
 - Doing CTF's.
