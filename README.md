@@ -105,9 +105,9 @@ class Languages:
     <td>NVIDIA RTX 5070 TI</td>
   </tr>
   <tr>
-    <td>Samsung Galaxy M21</td>
-    <td>Android 12, OneUI 4</td>
-    <td>Unisoc</td>
+    <td>Samsung S25 Ultra</td>
+    <td>Android 16, OneUI 8</td>
+    <td>Snapdragon</td>
     <td>None</td>
   </tr>
 </table>
